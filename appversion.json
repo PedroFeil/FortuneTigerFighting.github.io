@@ -1,0 +1,11 @@
+{
+  "code" : 0,
+  "data" : {
+    "forceUpdateAndroid":0,
+    "androidDesc" : "The new version is updated, hurry to download it!",
+    "androidUrl" : "https://www.baidu.com",
+    "androidVersion" : "1.0.0"
+  },
+  "msg" : "Request successful",
+  "success" : true
+}
