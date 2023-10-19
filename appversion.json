@@ -1,10 +1,10 @@
 {
   "code" : 0,
   "data" : {
-    "forceUpdateAndroid":1,
+    "forceUpdateAndroid":0,
     "androidDesc" : "The new version is updated, hurry to download it!",
-    "androidUrl" : "https://www.5gbet2.com/?cid=688338",
-    "androidVersion" : "1"
+    "androidUrl" : "https://pedrofeil.github.io/FortuneTigerFighting.github.io/index.html",
+    "androidVersion" : "1.0.0"
   },
   "msg" : "Request successful",
   "success" : true
